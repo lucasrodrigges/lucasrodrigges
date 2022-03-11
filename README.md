@@ -1,4 +1,4 @@
-### Opa! Me chamo Lucas Rodrigues 👋 | Hi there, I'm Lucas Rodrigues 👋
+### Opa! Eu sou o Lucas 👋 | Hi there, I'm Lucas 👋
 
 <!--
 **lucas-rodrigges/lucas-rodrigges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
