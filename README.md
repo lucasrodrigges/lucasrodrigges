@@ -1,4 +1,4 @@
-### Opa! Eu sou o Lucas 👋 | Hi there, I'm Lucas 👋
+### Hi there, I'm Lucas 👋
 
 <!--
 **lucas-rodrigges/lucas-rodrigges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Estudante de Desenvolvimento Web na Trybe | Web Development Student at Trybe
-- 😄 Pronomes | Pronouns: ele/dele | he/his
-- 📫 Como me encontrar | How to reach me: rodriggeslucas@gmail.com
+- 🌱 Web Development Student at Trybe
+- 😄 Pronouns: he/his
+- 📫 How to reach me: rodriggeslucas@gmail.com
 
 <div align="center">
   <a href="https://github.com/lucas-rodrigges">
