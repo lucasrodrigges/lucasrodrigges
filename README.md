@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 Estudante de Desenvolvimento Web na Trybe | Web Development Student at Trybe
-- 😄 Pronouns: ele/dele | he/his
-- 📫 How to reach me: rodriggeslucas@gmail.com
+- 😄 Pronomes | Pronouns: ele/dele | he/his
+- 📫 Como me encontrar | How to reach me: rodriggeslucas@gmail.com
 
 <div align="center">
   <a href="https://github.com/lucas-rodrigges">
