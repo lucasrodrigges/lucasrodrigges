@@ -6,8 +6,8 @@ Web Development Student at Trybe.
 
 <div align="left">
   <a href="https://github.com/lucas-rodrigges">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=lucas-rodrigges&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
- <img height="250em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-rodrigges&layout=compact&langs_count=7&theme=react"/>
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=lucas-rodrigges&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+ <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-rodrigges&layout=compact&langs_count=7&theme=react"/>
 </div>
   
 <div> 
