@@ -4,7 +4,7 @@ Web Development Student at Trybe.
 
 📫 Reach me: rodriggeslucas@gmail.com
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/lucas-rodrigges">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucas-rodrigges&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-rodrigges&layout=compact&langs_count=7&theme=react"/>
