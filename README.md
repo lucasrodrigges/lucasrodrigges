@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas 👋
 
-Web Development Student at Trybe. 
+Web Development Student at [Trybe](https://app.betrybe.com/login). 
 
 📫 Reach me: rodriggeslucas@gmail.com
 
