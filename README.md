@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasrodriggesv&color=yellow" alt="Profile views" /> </p>
+
 ### Hi there, I'm Lucas 👋
 
 Web Development Student at [Trybe](https://app.betrybe.com/login). 
