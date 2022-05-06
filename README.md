@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Lucas <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px">
 
-Web Development Student at [Trybe](https://app.betrybe.com/login). 
+Web Development Student at <a href="https://ajuda.betrybe.com/hc/pt-br/articles/360056299454-O-que-a-Trybe-%C3%A9-">Trybe</a>. 
 
 📫 Reach me: rodriggeslucas@gmail.com
 
